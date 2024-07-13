@@ -1,0 +1,947 @@
+he last frontier of the biological sciences—the ultimate challenge—is to understand the biological basis of consciousness and the brain
+processes by which we feel, act, learn, and remember.
+During the past few decades, a remarkable unification
+within the biological sciences has set the stage for addressing this great challenge. The ability to sequence genes and infer the amino acid sequences of the proteins they encode has revealed unanticipated similarities between proteins in the nervous system and those encountered elsewhere in the body. As a result, it has become possible
+to establish a general plan for the function of cells, a plan
+that provides a common conceptual framework for all of
+cell biology, including cellular neural science.
+The current challenge in the unification within
+biology is the unification of psychology—the science
+of the mind—and neural science—the science of the
+brain. Such a unified approach, in which mind and
+body are not seen as separate entities, rests on the view
+that all behavior is the result of brain function. What
+we commonly call the mind is a set of operations carried out by the brain. Brain processes underlie not only
+simple motor behaviors such as walking and eating
+but also all the complex cognitive acts and behavior
+that we regard as quintessentially human—thinking,
+speaking, and creating works of art. As a corollary, all
+the behavioral disorders that characterize psychiatric illness—disorders of affect (feeling) and cognition
+(thought)—result from disturbances of brain function.
+How do the billions of individual nerve cells in
+the brain produce behavior and cognitive states, and
+how are those cells influenced by the environment,
+which includes social experience? Explaining behavior
+in terms of brain activity is the important task of neural science, and the progress of neural science in this
+ral science, and the progress of neural science in this
+respect is a major theme of this book.
+Neural science must continually confront certain
+fundamental questions. What is the appropriate level
+of biological description to understand a thought process, the movement of a limb, or the desire to make
+the movement? Why is a movement smooth or jerky or
+made unintentionally in certain neurological disease
+states? Answers to these questions might emerge from
+looking at the pattern of DNA expression in nerve cells
+and how this pattern regulates the electrical properties
+of neurons. However, we will also require knowledge
+of neural circuits comprising many neurons in specific
+brain areas and how the activity of specific circuits in
+many brain areas is coordinated.
+Is there a level of biological description that is
+most apt? The short answer is, it depends. If one’s
+goal is to understand and treat certain genetic epilepsy disorders, then DNA sequencing and measurements of electrical properties of individual neurons
+ments of electrical properties of individual neurons
+might be sufficient to produce an effective therapy.
+If one is interested in learning, perception, and exploration, then an analysis of systems of circuits and brain
+regions is likely to be required.
+The goal of modern neural science is to integrate
+all of these specialized levels into a coherent science.
+The effort forces us to confront new questions. If mental processes can be localized to discrete brain regions,
+what is the relationship between the functions of those
+regions and the anatomy and physiology of those
+regions? Is one kind of neural circuit required to process visual information, another type to parse speech,
+and yet another to sequence movements? Or do circuits
+with different functions share common organizational
+principles? Are the requisite neural computations best
+understood as operations on information represented
+by single neurons or populations of neurons? Is information represented in the electrical activity of individual nerve cells, or is it distributed over ensembles such
+ual nerve cells, or is it distributed over ensembles such
+that any one cell is no more informative than a random
+bit of computer memory? As we shall see, questions
+about levels of organization, specialization of cells, and
+localization of function recur throughout neural science.
+To illustrate these points we shall examine how
+modern neural science describes language, a distinctive cognitive behavior in humans. In so doing, we
+shall focus broadly on operations in the cerebral cortex,
+the part of the brain that is most highly developed in
+humans. We shall see how the cortex is organized into
+functionally distinct regions, each made up of large
+groups of neurons, and how the neural apparatus of a
+highly complex behavior can be analyzed in terms of
+the activity of specific sets of interconnected neurons
+within specific regions. In Chapter 3, we describe how
+the neural circuit for a simple reflex behavior operates
+at the cellular level, illustrating how the interplay of
+sensory signals and motor signals leads to a motor act.
+Two Opposing Views Have Been Advanced on
+the Relationship Between Brain and Behavior
+Our views about nerve cells, the brain, and behavior
+emerged during the 20th century from a synthesis of
+five experimental traditions: anatomy, embryology,
+physiology, pharmacology, and psychology.
+The 2nd century Greek physician Galen proposed
+that nerves convey fluid secreted by the brain and spinal cord to the body’s periphery. His views dominated
+Western medicine until the microscope revealed the
+true structure of the cells in nervous tissue. Even so,
+nervous tissue did not become the subject of a special
+science until the late 1800s, when the Italian Camillo
+Golgi and the Spaniard Santiago Ramón y Cajal
+produced detailed, accurate descriptions of nerve cells
+but reached two quite different conclusions of how the
+brain functions.
+Golgi developed a method of staining neurons
+with silver salts that revealed their entire cell structure
+under the microscope. Based on such studies, Golgi
+concluded that nerve cells are not independent cells
+isolated from one another but instead act together in
+one continuous web of tissue or syncytium. Using
+Golgi’s technique, Ramón y Cajal observed that each
+neuron typically has a cell body and two types of processes: branching dendrites at one end and a long,
+cable-like axon at the other. Cajal concluded that nervous tissue is not a syncytium but a network of discrete
+cells. In the course of this work, Ramón y Cajal developed some of the key concepts and much of the early
+evidence for the neuron doctrine—the principle that
+individual neurons are the elementary building blocks
+and signaling elements of the nervous system.
+In the 1920s the American embryologist Ross
+Harrison showed that the dendrites and axons grow
+from the cell body and do so even when each neuron
+is isolated from others in tissue culture. Harrison also
+confirmed Ramón y Cajal’s suggestion that the tip of
+the axon gives rise to an expansion, the growth cone,
+which leads the developing axon to its target, either
+to other nerve cells or muscles. Both of these discoveries lent strong support to the neuron doctrine. The
+final definite evidence for the neuron doctrine came in
+the mid-1950s with the introduction of electron microscopy. A landmark study by Sanford Palay unambiguously demonstrated the existence of synapses,
+biguously demonstrated the existence of synapses,
+specialized regions of nerve cells that permit chemical
+or electrical signaling between them.
+Physiological investigation of the nervous system
+began in the late 1700s when the Italian physician and
+physicist Luigi Galvani discovered that muscle and
+nerve cells produce electricity. Modern electrophysiology grew out of work in the 19th century by three
+German physiologists—Johannes Müller, Emil du
+Bois-Reymond, and Hermann von Helmholtz—who
+succeeded in measuring the speed of conduction of
+electrical activity along the axon of the nerve cell and
+further showed that the electrical activity of one nerve
+cell affects the activity of an adjacent cell in predictable
+ways.
+Pharmacology made its first impact on our understanding of the nervous system and behavior at the end
+of the 19th century when Claude Bernard in France,
+Paul Ehrlich in Germany, and John Langley in England
+demonstrated that drugs do not act randomly on a cell,
+but rather bind to discrete receptors typically located
+in the cell membrane. This insight led to the discovery
+that nerve cells can communicate with each other by
+chemical means.
+Psychological thinking about behavior dates back
+to the beginnings of Western science when the ancient
+Greek philosophers speculated about the causes of
+behavior and the relation of the mind to the brain. In
+subsequent centuries, two major views emerged. In the
+17th century, René Descartes distinguished body and
+mind. In this dualistic view, the brain mediates perception, motor acts, memory, appetites, and passions—
+everything that can be found in the lower animals. But
+the mind—the higher mental functions, the conscious
+experience characteristic of human behavior—is not
+represented in the brain or any other part of the body
+but in the soul, a spiritual entity. Descartes believed
+that the soul communicated with the machinery of
+the brain by means of the pineal gland, a tiny structure in the midline of the brain. Descartes’s position
+has had little sway in modern philosophy or neural science. Indeed, the underlying premise of neural
+science is that mind is a product of the brain and its
+neural activity. By this we do not mean that the aim of
+neural science is to explain away the mind by reduction
+to biological components, but rather to elucidate the
+biology of mind.
+Attempts to join biological and psychological concepts in the study of behavior began as early as 1800,
+when Franz Joseph Gall, a Viennese physician and
+neuroanatomist, proposed a radically new idea of body
+and mind. He advocated that the brain is the organ of
+the mind and that all mental functions are embodied
+in the brain. He thus rejected the Cartesian idea that
+mind and body are separate entities. In addition, he
+argued that the cerebral cortex was not a unitary organ
+but contained within it many specialized organs, and
+that particular regions of the cerebral cortex control
+specific functions. Gall enumerated at least 27 distinct
+regions or organs of the cerebral cortex; later many
+more were added, each corresponding to a specific
+mental faculty ( . Gall assigned intellectual processes, such as the ability to evaluate causality, to calculate, and to sense order, to the front of the
+ity, to calculate, and to sense order, to the front of the
+brain. Instinctive characteristics such as romantic love
+(amativeness) and combativeness were assigned to the
+back of the brain. Even the most abstract of human
+behaviors—generosity, secretiveness, and religiositywere assigned a spot in the brain.
+Although Gall’s theory of the unity of body and
+mind and his idea that certain functions were localized
+to specific brain regions proved to be correct, the dominant view today is that many higher functions of mind
+are most likely highly distributed. Moreover, Gall’s
+experimental approach to localization was extremely
+An early map of functional localization in the
+brain. According to the 19th century doctrine of phrenology,
+complex traits such as combativeness, spirituality, hope, and
+conscientiousness are controlled by specialized “organs,”
+distinct areas of the cerebral cortex that expand as the traits
+develop. These enlargements of local areas of the brain were
+thought to produce characteristic bumps and ridges on the
+overlying skull, from which an individual’s character could be
+determined. This map, taken from a drawing of the early 1800s,
+shows 42 intellectual and emotional “organs.”
+naive. Rather than locate functions empirically, by
+looking into the brain and correlating defects in mental attributes with lesions in specific regions following
+tal attributes with lesions in specific regions following
+tumor or stroke, Gall spurned all evidence derived
+from studies of brain lesions, whether discovered
+through clinical examination or produced surgically
+in experimental animals. Influenced by physiognomy,
+the popular science based on the idea that facial features reveal character, Gall believed that the bumps
+and ridges on the skulls of people well endowed with
+specific cognitive faculties identified the centers for
+those faculties in the brain. He assumed that the size
+of an area of brain was related to the relative importance of the mental faculty represented in that area.
+Accordingly, exercise of a given mental faculty would
+cause the corresponding brain region to grow, and
+this growth in turn would cause the overlying skull to
+protrude.
+Gall first had this idea as a young boy when he
+noticed that those of his classmates who excelled at
+memorizing school assignments had prominent eyes.
+He concluded that this was the result of an overdevelopment of regions in the front of the brain involved
+in verbal memory. He developed this idea further
+when, as a young physician, he was placed in charge
+of an asylum for the insane in Vienna. There he began
+to study patients suffering from monomania, a disorder characterized by an exaggerated interest in some
+key idea or a deep urge to engage in some specific
+behavior—theft, murder, eroticism, extreme religiosity. He reasoned that, because the patient functioned
+well in all other behaviors, the brain defect must be
+discrete and in principle could be localized by examining the skulls of these patients. Gall’s studies of
+localized brain functions led to phrenology, a discipline
+concerned with determining personality and character
+based on the detailed shape of the skull.
+In the late 1820s, Gall’s ideas were subjected to
+experimental analysis by the French physiologist
+Pierre Flourens. Using experimental animals, Flourens
+destroyed some of Gall’s functional centers in the brain,
+and in turn attempted to isolate the contribution of
+these “cerebral organs” to behavior. From these experiments, Flourens concluded that specific brain regions
+are not responsible for specific behaviors, but that all
+brain regions, especially the cerebral hemispheres of
+the forebrain, participate in every mental operation.
+Any part of a cerebral hemisphere, Flourens proposed,
+contributes to all the hemisphere’s functions. Injury to
+any one area of the cerebral hemisphere should therefore affect all higher functions equally. Thus in 1823
+Flourens wrote: “All perceptions, all volitions occupy
+the same seat in these (cerebral) organs; the faculty of
+perceiving, of conceiving, of willing merely constitutes
+therefore a faculty which is essentially one.”
+The rapid acceptance of this belief, later called
+the holistic view of the brain, was based only partly
+on Flourens’s experimental work. It also represented
+a cultural reaction against the materialistic view that
+the human mind is a biological organ. It represented
+a rejection of the notion that there is no soul, that all
+mental processes can be reduced to activity within the
+brain, and that the mind can be improved by exercising it—ideas that were unacceptable to the religious
+establishment and landed aristocracy of Europe.
+The holistic view was seriously challenged, however, in the mid-19th century by the French neurologist
+Paul Pierre Broca, the German neurologist Carl Wernicke,
+and the British neurologist Hughlings Jackson. For
+example, in his studies of focal epilepsy, a disease
+characterized by convulsions that begin in a particular
+part of the body, Jackson showed that different motor
+and sensory functions could be traced to specific parts
+of the cerebral cortex. The regional studies by Broca,
+Wernicke, and Jackson were extended to the cellular
+level by Charles Sherrington and by Ramón y Cajal,
+who championed the view of brain function called
+cellular connectionism. According to this view, individual neurons are the signaling units of the brain; they
+are arranged in functional groups and connect to one
+another in a precise fashion. Wernicke’s work and that
+of the French neurologist Jules Dejerine revealed that
+different behaviors are produced by different interconnected brain regions.
+The first important evidence for localization
+emerged from studies of how the brain produces language. Before we consider the relevant clinical and
+anatomical studies, we shall first review the overall
+structure of the brain, including its major anatomical regions. This requires that we define some essential navigational terms used by neuroanatomists to
+tial navigational terms used by neuroanatomists to
+describe the three-dimensional spatial relationships
+between parts of the brain and spinal cord.
+The Brain Has Distinct Functional Regions
+The central nervous system is a bilateral and largely
+symmetrical structure with two main parts, the spinal cord and the brain. The brain comprises six major
+structures: the medulla oblongata, pons, cerebellum,
+midbrain, diencephalon, and cerebrum. Each of these in turn comprise distinct
+groups of neurons with distinctive connectivity and
+developmental origin. In the medulla, pons, midbrain,
+and diencephalon, neurons are often grouped in distinct clusters termed nuclei. The surface of the cerebrum and cerebellum consists of a large folded sheet
+brum and cerebellum consists of a large folded sheet
+of neurons called the cerebral cortex and the cerebellar cortex, respectively, where neurons are organized
+in layers with stereotyped patterns of connectivity. The
+cerebrum also contains a number of structures located
+below the cortex (subcortical), including the basal ganglia and amygdala.
+Modern brain imaging techniques make it possible
+to see activity in these structures in living people. Brain imaging is commonly used to evaluate the metabolic activity of discrete regions of the brain
+while people are engaged in specific tasks under controlled conditions. Such studies provide evidence that
+specific types of behavior recruit the activity of particular regions of the brain more than others. Brain imaging
+vividly demonstrates that cognitive operations rely primarily on the cerebral cortex, the furrowed gray matter
+covering the two cerebral hemispheres
+In each of the hemispheres, the overlying cortex
+is divided into four lobes named for the skull bones
+that overlie them: frontal, parietal, occipital, and temporal. Each lobe has several characteristic
+deep infoldings, an evolutionary strategy for packing
+a large sheet of cortex into a limited space. The crests
+of these convolutions are called gyri, and the intervening grooves are called sulci or fissures. The more
+prominent gyri and sulci, which are quite similar from
+person to person, bear specific names. For example,
+the central sulcus separates the precentral gyrus, an
+area concerned with motor function, from the postcentral gyrus, an area that deals with sensory function. Several prominent gyri are only visible
+on the medial surface between the two hemispheres, and others are deep within fissures
+and sulci and therefore only visible when the brain is
+sliced, either in postmortem tissue or virtually, using magnetic resonance imaging.
+Each lobe has specialized functions. The frontal
+lobe is largely concerned with short-term memory,
+planning future actions, and control of movement; the
+parietal lobe mediates somatic sensation, forming a
+body image and relating it to extrapersonal space; the
+occipital lobe is concerned with vision; and the temporal lobe processes hearing, the recognition of objects
+and faces, and—through its deep structures, the hippocampus and amygdaloid nuclei—learning, memory,
+and emotion.
+Two important features characterize the organization of the cerebral cortex. First, each hemisphere
+is concerned primarily with sensory and motor processes on the contralateral (opposite) side of the body.
+Thus sensory information that reaches the spinal cord
+from the left side of the body crosses to the right side
+of the nervous system on its way to the cerebral cortex.
+Similarly, the motor areas in the right hemisphere exert
+control over the movements of the left half of the body.
+The second feature is that the hemispheres, although
+similar in appearance, are not completely symmetrical
+in structure or function.
+The First Strong Evidence for Localization
+of Cognitive Abilities Came From Studies of
+Language Disorders
+The first areas of the cerebral cortex identified as
+important for cognition were areas concerned with language. These discoveries came from studies of aphasia,
+a language disorder that most often occurs when certain areas of brain tissue are destroyed by a stroke, the
+tain areas of brain tissue are destroyed by a stroke, the
+occlusion or rupture of a blood vessel supplying a portion of a cerebral hemisphere. Many of the important
+tion of a cerebral hemisphere. Many of the important
+discoveries in the study of aphasia occurred in rapid
+succession during the latter half of the 19th century.
+Taken together, these advances form one of the most
+exciting and important chapters in the neuroscientific
+study of human behavior.
+Pierre Paul Broca, a French neurologist, was the
+first to identify specific areas of the brain concerned
+with language. Broca was influenced by Gall’s efforts
+to map higher functions in the brain, but instead of
+correlating behavior with bumps on the skull, he correlated clinical evidence of aphasia with brain lesions
+related clinical evidence of aphasia with brain lesions
+discovered post mortem. In 1861 he wrote, “I had
+thought that if there were ever a phrenological science,
+it would be the phrenology of convolutions (in the
+cortex), and not the phrenology of bumps (on the head).”
+Based on this insight, Broca founded neuropsychology,
+an empirical science of mental processes that he distinguished from the phrenology of Gall.
+guished from the phrenology of Gall.
+In 1861 Broca described a patient, Leborgne,
+who as a result of a stroke could not speak, although
+he could understand language perfectly well. This
+patient had no motor deficits of the tongue, mouth,
+or vocal cords that would affect his ability to speak.
+In fact, he could utter isolated words, whistle, and
+sing a melody without difficulty. But he could not
+speak grammatically or create complete sentences,
+nor could he express ideas in writing. Postmortem
+examination of this patient’s brain showed a lesion in
+a posterior inferior region of the left frontal lobe, now
+called Broca’s area  . Broca studied eight
+similar patients, all with lesions in this region, and
+in each case the lesion was located in the left cerebral
+hemisphere. This discovery led Broca to announce
+in 1864: “Nous parlons avec l’hémisphère gauche!” (We
+speak with the left hemisphere!).
+Broca’s work stimulated a search for cortical sites
+associated with other specific behaviors—a search
+soon rewarded. In 1870 Gustav Fritsch and Eduard
+Hitzig galvanized the scientific community when
+they showed that characteristic limb movements of
+dogs, such as extending a paw, could be produced
+by electrically stimulating discrete regions of the
+precentral gyrus. These regions were invariably
+located in the contralateral motor cortex. Thus the
+right hand, the one most used for writing and skilled
+movements, is controlled by the left hemisphere,
+the same hemisphere that controls speech. In most
+people, therefore, the left hemisphere is regarded as
+dominant.
+The next step was taken in 1876 by Karl Wernicke,
+who at age 26 published a now-classic paper,
+“The Symptom-Complex of Aphasia: A Psychological Study on an Anatomical Basis.” In it he described
+cal Study on an Anatomical Basis.” In it he described
+another type of aphasia, a failure of comprehension rather
+than speech: a receptive as opposed to an expressive malfunction. Whereas Broca’s patients could understand
+function. Whereas Broca’s patients could understand
+language but not speak, Wernicke’s patient could form
+words but could not understand language and produced
+senseless, yet grammatical, sentences. Moreover, the
+locus of this new type of aphasia was different from
+that described by Broca. The lesion occurred in the
+posterior part of the cerebral cortex where the temporal lobe meets the parietal lobe ( .
+ral lobe meets the parietal lobe ( .
+On the basis of this discovery, and the work of
+Broca, Fritsch, and Hitzig, Wernicke formulated a
+neural model of language that attempted to reconcile
+and extend the predominant theories of brain function
+at that time. Phrenologists and cellular connectionists
+argued that the cerebral cortex was a mosaic of functionally specific areas, whereas the holistic aggregate-field
+tionally specific areas, whereas the holistic aggregate-field
+school claimed that every mental function involved
+the entire cerebral cortex. Wernicke proposed that only
+the most basic mental functions, those concerned with
+simple perceptual and motor activities, are mediated
+entirely by neurons in discrete local areas of the cortex.
+More complex cognitive functions, he argued, result
+from interconnections between several functional
+sites. By integrating the principle of localized function
+within a connectionist framework, Wernicke emphasized the idea that different components of a single
+sized the idea that different components of a single
+behavior are likely to be processed in several regions
+of the brain. He was thus the first to advance the idea
+of distributed processing, now a central tenet of neural
+science.
+Wernicke postulated that language involves separate motor and sensory programs, each governed by
+rate motor and sensory programs, each governed by
+distinct regions of cortex. He proposed that the motor
+program that governs the mouth movements for
+speech is located in Broca’s area, suitably situated in
+front of the region of the motor area that controls the
+mouth, tongue, palate, and vocal cords ( .
+He next assigned the sensory program that governs
+word perception to the temporal lobe area that he had
+discovered, now called Wernicke’s area. This region is
+surrounded by the auditory cortex and by areas now
+known collectively as association cortex, integrating
+auditory, visual, and somatic sensations. According to
+Wernicke’s model, the communication between these
+two language centers was mediated via a large bundle
+of axons known as the arcuate fasciculus.
+Thus Wernicke formulated the first coherent neural model for language that is still useful today, with
+ral model for language that is still useful today, with
+important modifications and elaborations described in
+Chapter 55. According to this model, the neural processing of spoken or written words begins in separate
+cessing of spoken or written words begins in separate
+sensory areas of the cortex specialized for auditory or
+visual information. This information is then conveyed,
+via intermediate association areas that extract features
+suitable for recognition of spoken or written words,
+to Wernicke’s area, where it is recognized as language
+and associated with meaning.
+The power of Wernicke’s model was not only its
+completeness but also its predictive utility. This model
+correctly predicted a third type of aphasia, one that
+results from disconnection. In this type, the receptive and expressive zones for speech are intact but
+tive and expressive zones for speech are intact but
+the neuronal fibers that connect them (arcuate fasciculus) are destroyed. This conduction aphasia, as it is
+ciculus) are destroyed. This conduction aphasia, as it is
+now called, is characterized by frequent, sound-based
+speech errors (phonemic paraphasias), repetition difficulties, and severe limitation in verbal working memory.
+ties, and severe limitation in verbal working memory.
+Patients with conduction aphasia understand words
+that they hear and read, and have no motor difficulties
+when they speak. Yet they cannot speak coherently;
+they omit parts of words or substitute incorrect sounds
+and experience great difficulties in verbatim repetition
+of a multisyllabic word, phrase, or sentence that they
+hear or read or recall from memory. Although painfully
+aware of their own errors, their successive attempts at
+self-correction are often unsuccessful.
+Inspired in part by Wernicke’s advances and led
+by the anatomist Korbinian Brodmann, a new school
+of cortical localization arose in Germany at the beginning of the 20th century, one that distinguished func-
+ning of the 20th century, one that distinguished functional areas of the cortex based on the shapes of cells
+tional areas of the cortex based on the shapes of cells
+and variations in their layered arrangement. Using
+this cytoarchitectonic method, Brodmann distinguished
+52 anatomically and functionally distinct areas in the
+human cerebral cortex
+Even though the biological evidence for functionally discrete areas in the cortex was compelling, by the
+ally discrete areas in the cortex was compelling, by the
+early 20th century, holistic views of the brain continued
+to dominate experimental thinking and clinical practice
+until 1950. This surprising state of affairs owed much
+to several prominent neural scientists who advocated
+the holistic view, among them the British neurologist
+Henry Head, the Russian behavioral physiologist Ivan
+Pavlov, and the American psychologist Karl Lashley.
+Most influential was Lashley, who was deeply
+skeptical of the cytoarchitectonic approach to functional mapping of the cortex. “The ‘ideal’ architec-
+tional mapping of the cortex. “The ‘ideal’ architectonic map is nearly worthless,” Lashley wrote. “The
+tonic map is nearly worthless,” Lashley wrote. “The
+area subdivisions are in large part anatomically
+meaningless, and misleading as to the presumptive
+functional divisions of the cortex.” His skepticism
+was reinforced by his studies of the effects of various
+brain lesions on the ability of rats to learn to run a
+maze. From these studies Lashley concluded that the
+severity of a learning defect depended on the size of
+the lesion, not on its precise location. Disillusioned,
+Lashley—and after him many other psychologists—
+concluded that learning and other higher mental
+functions have no special locus in the brain and consequently cannot be attributed to specific collections
+sequently cannot be attributed to specific collections
+of neurons.
+Based on his observations, Lashley reformulated
+the aggregate-field view by further minimizing the
+role of individual neurons, specific neuronal connections, and even specific brain regions in the produc-
+tions, and even specific brain regions in the production of specific behavior. According to Lashley’s theory
+tion of specific behavior. According to Lashley’s theory
+of mass action, it is the full mass of the brain, not its
+regional components, that is crucial for a function such
+as memory.
+Lashley’s experiments with rats have now been
+reinterpreted. A variety of studies have shown that
+the maze-learning used by Lashley is unsuited to the
+search for local cortical functions because it involves so
+many motor and sensory capabilities. Deprived of one
+sensory capability, say vision, a rat can still learn to run
+a maze using touch or smell. Besides, as we shall see
+later in the book, many mental functions are mediated
+by more than one region or neuronal pathway. Thus
+a given function may not be eliminated by a single
+lesion. This is especially germane when considering
+cognitive functions of the brain. For example, knowledge of space is supported by numerous parietal asso-
+edge of space is supported by numerous parietal association areas that link vision to a potential shift of the
+ciation areas that link vision to a potential shift of the
+gaze, turn of the head, reach of the hand, and so on. In
+principle, any one of these association areas can compensate for damage of another. It takes a large insult
+pensate for damage of another. It takes a large insult
+to the parietal lobe to produce obvious deficits of spatial knowledge (spatial agnosia) (Chapter 59). Such an
+tial knowledge (spatial agnosia) (Chapter 59). Such an
+observation would have seemed to support theories of
+mass action, but we now recognize that it is compatible
+with localization of function that incorporates the idea
+of redundancy of function.
+Soon the evidence for localization of function
+became overwhelming. Beginning in the late 1930s,
+Edgar Adrian in England and Wade Marshall and
+Philip Bard in the United States discovered that touching different parts of a cat’s body elicits electrical
+ing different parts of a cat’s body elicits electrical
+activity in distinct regions of the cerebral cortex. By systematically probing the body surface, they established
+tematically probing the body surface, they established
+a precise map of the body surface in specific areas of
+the cerebral cortex described by Brodmann. This result
+showed that functionally distinct areas of cortex could
+be defined unambiguously according to anatomical
+criteria such as cell type and cell layering, connections
+of cells, and—most importantly—behavioral function.
+As we shall see in later chapters, functional specialization is a key organizing principle in the cerebral
+zation is a key organizing principle in the cerebral
+cortex, extending even to individual columns of cells
+within an area of cortex. Indeed, the brain is divided
+into many more functional regions than Brodmann
+envisaged.
+More refined methods made it possible to learn
+even more about the function of different brain regions
+involved in language. In the late 1950s Wilder Penfield,
+and later George Ojemann, reinvestigated the cortical
+areas that are essential for producing language. While
+locally anesthetized during brain surgery for epilepsy,
+awake patients were asked to name objects (or use
+language in other ways) while different areas of the
+exposed cortex were stimulated with small electrodes.
+If an area of the cortex was critical for language, application of the electrical stimulus blocked the patient’s
+cation of the electrical stimulus blocked the patient’s
+ability to name objects. In this way Penfield and Ojemann
+were able to confirm the language areas of the cortex
+described by Broca and Wernicke. As we shall learn in
+Chapter 55, the neural networks for language are far
+more extensive and complex than those described by
+Broca and Wernicke.
+Initially almost everything known about the anatomical organization of language came from studies
+tomical organization of language came from studies
+of patients with brain lesions. Today functional magnetic resonance imaging (fMRI) and other noninvasive
+netic resonance imaging (fMRI) and other noninvasive
+methods allow analyses to be conducted on healthy
+people engaged in reading, speaking, and thinking
+(Chapter 6). fMRI not only has confirmed that reading
+and speaking activate different brain areas but also has
+revealed that just thinking about a word’s meaning in
+the absence of sensory inputs activates a still different
+area in the left frontal cortex. Indeed, even within the
+traditional language areas, individual subregions are
+recruited to different degrees, depending on the way
+we think about words, express them, and resolve their
+meaning from the arrangement of other words (ie, syntax). The new imaging tools promise not only to teach
+tax). The new imaging tools promise not only to teach
+us which areas are involved but also to expose the
+functional logic of their interconnection.
+One of the great surprises emerging from modern methodologies is that so many areas of cortex are
+ern methodologies is that so many areas of cortex are
+activated in language comprehension and production. These include the traditional language areas,
+tion. These include the traditional language areas,
+identified by Broca, Wernicke, and Dejerine, in the left
+hemisphere; their homologs in the right hemisphere;
+and newly identified regions. Functional imaging
+tends to elucidate areas that are recruited differentially, whereas lesions from stroke, tumor, or injury
+tially, whereas lesions from stroke, tumor, or injury
+distinguish brain areas that are essential for one or
+more functions. Thus it appears that Broca’s area,
+once thought to be dedicated to language production,
+is in fact also involved in a variety of linguistic tasks
+including comprehension ( . In some cases,
+functional imaging invites refinement or revision
+of the critical areas identified by lesion studies. For
+example, reading is now thought to recruit specialized regions in the ventral occipitotemporal cortex in
+ized regions in the ventral occipitotemporal cortex in
+addition to the angular gyrus in the parietal cortex
+(shown in  .
+Thus the processing of language in the brain exemplifies not only the principle of localized function but
+plifies not only the principle of localized function but
+also the more sophisticated elaboration of this principle, that numerous distinct neural structures with
+ciple, that numerous distinct neural structures with
+specialized functions belong to systems. Perhaps this
+is the natural reconciliation of the controversy concerning localized and distributed processes—that is,
+cerning localized and distributed processes—that is,
+a small number of distinct areas, each identified with
+a small set of functions and contributing through
+their interactions to the phenomenology of perception, action, and ideation. The brain may carve up a
+tion, action, and ideation. The brain may carve up a
+task differently than our intuition tells us. Who would
+have guessed that the neural analysis of the movement
+and color of an object would occur in different pathways rather than a single pathway mediating a unified
+ways rather than a single pathway mediating a unified
+percept of the object? Similarly, we might expect that
+the neural organization of language may not conform
+neatly to the axioms of a theory of universal grammar,
+yet support the very seamless functionality described
+by linguistic theory.
+Studies of patients with brain damage continue to
+afford important insight into how the brain is organized for language. One of the most impressive results
+ized for language. One of the most impressive results
+comes from the study of deaf people who have lost their
+ability to communicate through the use of a signed language (eg, British Sign Language [BSL] or American
+guage (eg, British Sign Language [BSL] or American
+Sign Language [ASL]) after suffering cerebral damage.
+Signed languages use hand movements rather than
+vocalizations and are perceived by sight rather than
+sound, but have the same structural complexity as
+spoken languages. Sign language processing, as with
+spoken language processing, localizes to the left
+hemisphere. Damage to the left hemisphere can have
+quite specific consequences for signing just as for spoken language, affecting sign comprehension (following
+ken language, affecting sign comprehension (following
+damage in Wernicke’s area), grammar, or fluency (following damage in Broca’s area). These clinical observa-
+lowing damage in Broca’s area). These clinical observations are supported by functional neuroimaging. Not
+tions are supported by functional neuroimaging. Not
+surprisingly, production and comprehension of signed
+and spoken languages do not involve identical brain
+areas, but the overlap is truly remarkable ( .
+There is even evidence that processing the constituent
+parts of signs (eg, handshape used) involves some of
+the same brain regions involved when making rhyme
+judgements about speech.
+These observations illustrate three points. First,
+language processing occurs primarily in the left hemisphere, independently of pathways that process the
+sphere, independently of pathways that process the
+sensory and motor modalities used in language. Second, auditory input is not necessary for the emergence
+ond, auditory input is not necessary for the emergence
+and operation of language capabilities in the left hemisphere. Third, spoken language is only one of a family
+sphere. Third, spoken language is only one of a family
+of language skills mediated by the left hemisphere.
+Investigations of other behaviors have provided
+additional support for the idea that the brain has distinct cognitive systems. These studies demonstrate
+tinct cognitive systems. These studies demonstrate
+that complex information processing requires many
+interconnected cortical and subcortical areas, each
+concerned with processing particular aspects of sensory stimuli or motor movement and not others. For
+sory stimuli or motor movement and not others. For
+example, perceptual awareness of an object’s location, size, and shape relies on activity in numerous
+tion, size, and shape relies on activity in numerous
+parietal association areas that link vision to potential actions, such as moving the eyes, orienting the
+tial actions, such as moving the eyes, orienting the
+head, reaching, and shaping the hand to grasp. The
+parietal areas do not initiate these actions but evaluate sensory information as evidence bearing on these
+ate sensory information as evidence bearing on these
+potentialities. They receive information from the dorsal visual stream—sometimes referred to as the where
+sal visual stream—sometimes referred to as the where
+pathway, but more aptly termed a how pathway—to
+construct a state of knowing (gnosia) about the location and other spatial properties of objects. The ven-
+tion and other spatial properties of objects. The ventral visual stream, or what pathway, is also concerned
+tral visual stream, or what pathway, is also concerned
+with possible actions, but these are associated with
+socializing and foraging. These associations establish
+gnosia about the desirability of objects, faces, foods,
+and potential mates. In this sense, the what pathway
+might be a how pathway too.
+Mental Processes Are the Product of
+Interactions Between Elementary Processing
+Units in the Brain
+There are several reasons why the evidence for the
+localization of brain functions, which seems so obvious and compelling in retrospect, had been rejected so
+ous and compelling in retrospect, had been rejected so
+often in the past. Phrenologists introduced the idea of
+localization in an exaggerated form and without adequate evidence. They imagined each region of the cer-
+quate evidence. They imagined each region of the cerebral cortex as an independent mental organ dedicated
+ebral cortex as an independent mental organ dedicated
+to a complete and distinct aspect of personality, much
+as the pancreas and the liver are independent digestive organs. Flourens’s rejection of phrenology and the
+tive organs. Flourens’s rejection of phrenology and the
+ensuing debate between proponents of the aggregatefield view (against localization) and the cellular con-
+field view (against localization) and the cellular connectionists (for localization) were responses to a theory
+nectionists (for localization) were responses to a theory
+that was simplistic and without adequate experimental evidence.
+tal evidence.
+In the aftermath of Wernicke’s discovery of the
+modular organization of language in the brain—
+interconnected nodes with distinctive functions—we
+now think that all cognitive abilities result from the
+interaction of many processing mechanisms distributed in several regions of the brain. That is, particu-
+uted in several regions of the brain. That is, particular brain regions are not fully responsible for specific
+lar brain regions are not fully responsible for specific
+mental faculties but instead are elementary processing
+units that together have a role. Perception, movement,
+language, thought, and memory are all made possible
+by the interlinkage of serial and parallel processing
+in discrete brain regions—computational modules—
+within these regions. As a result, damage to a single
+area need not result in the complete loss of a cognitive function (or faculty) as many earlier neurologists
+tive function (or faculty) as many earlier neurologists
+believed. Even if a behavior initially disappears, it
+may partially return as undamaged parts of the brain
+reorganize their linkages. Further, when focal damage adversely affects a mental function it may do so
+age adversely affects a mental function it may do so
+indirectly by disrupting the function of other principal loci (diaschisis). Indeed, observations of this nature
+pal loci (diaschisis). Indeed, observations of this nature
+led Wernicke’s student Kurt Goldstein to embrace the
+more holistic view.
+Thus it is not accurate to think of a mental function
+as being mediated strictly by a chain of nerve cells and
+brain areas—each connected directly to the next—for
+in such an arrangement the entire process is disrupted
+when a single connection is damaged. A more realistic metaphor is that of a process consisting of several
+tic metaphor is that of a process consisting of several
+parallel pathways in a network of modules that interact and ultimately converge upon a common set of
+act and ultimately converge upon a common set of
+targets. The malfunction of a single pathway within
+a network may affect the information carried by that
+pathway without disrupting the entire system. The
+remaining parts of the network may be able to modify
+their performance to accommodate the breakdown of
+one pathway.
+Modular processing in the brain was slow to be
+accepted because, until recently, it was difficult to demonstrate which components of a mental operation were
+onstrate which components of a mental operation were
+mediated by a particular pathway or brain region. Nor
+is it easy to define mental operations in a manner that
+leads to testable hypotheses. Nevertheless, with the
+evolving convergence of modern cognitive psychology
+and brain science in recent decades, we have begun to
+appreciate that mental functions can successfully be
+broken down into subfunctions.
+To illustrate this point, consider how we learn,
+store, and recall information about objects, people, and
+events. Simple introspection suggests that we store
+each piece of our knowledge as a single representation
+that can be recalled by memory-jogging stimuli or even
+by the imagination alone. Everything you know about
+an apple, for example, seems to be stored in one complete representation that is equally accessible whether
+plete representation that is equally accessible whether
+you see a particular apple, a part of an apple, a red or
+green apple, the written word apple, or an apocryphal
+story about the discovery of gravity. Our experience,
+however, is not a faithful guide to how knowledge is
+stored in memory.
+Knowledge about apples is not stored as a single
+coherent representation but rather is subdivided into
+distinct categories and stored separately. One region of
+the brain stores information about the way you would
+hold the apple, the way you would feel for softness
+(bearing on freshness), the color (bearing on preference
+or freshness), the way you might communicate the
+presence or taste of the apple to another person, as well
+as its semantic association with computers, physicists,
+worms, serpents, and biblical gardens. The concept
+“apple” entails each of these considerations and many
+more. A natural assumption is that a coherent concept
+comprising many details must exist in a single place
+in the brain; however, an equally valid assumption is
+that a unified concept like “apple” exists in the mind in
+the form of multiple links between a variety of neural
+structures, each with a particular kind of information,
+coordinated through the action of memory retrieval.
+The most astonishing example of the modular
+organization of mental processes is the finding that
+our very sense of self—a self-aware being, the sum of
+what we mean when we say “I”—is achieved through
+the connection of independent circuits in our two
+cerebral hemispheres, each mediating its own sense
+of awareness. The remarkable discovery that even
+consciousness is not a unitary process was made by
+Roger Sperry, Michael Gazzaniga, and Joseph Bogen
+in the course of studying patients in whom the corpus
+callosum—the major tract connecting the two cerebral
+hemispheres—was severed as a treatment for epilepsy.
+They found that each hemisphere had a consciousness
+that functioned independently of the other.
+Thus while one patient was reading a favorite
+book held in his left hand, the right hemisphere, which
+controls the left hand but plays only a minor role in
+language comprehension, found that the raw visual
+information it received from simply looking at the book
+was boring. The right hemisphere commanded the left
+hand to put the book down. Another patient would
+put on his clothes with the left hand while at the same
+time taking them off with the other. Each hemisphere
+has a mind of its own! In addition, the dominant hemisphere sometimes commented on the performance of
+sphere sometimes commented on the performance of
+the nondominant hemisphere, frequently manifesting a false sense of confidence regarding problems to
+ing a false sense of confidence regarding problems to
+which it could not know the solution, which was provided exclusively to the nondominant hemisphere.
+vided exclusively to the nondominant hemisphere.
+Such findings have brought the study of consciousness, once the domain of philosophy and psy-
+sciousness, once the domain of philosophy and psychoanalysis, into the fold of neural science. As we shall
+choanalysis, into the fold of neural science. As we shall
+see in later chapters, many of the issues described in
+this chapter reemerge in neural theories of consciousness. No one questions the idea that much information
+ness. No one questions the idea that much information
+processing—perhaps the lion’s share—does not reach
+conscious awareness. When sensory information, a
+plan of action, or an idea does become conscious,
+neural science seeks to explain the mechanisms that
+mediate this transition. While there is as yet no satisfactory explanation, some brain scientists would liken
+factory explanation, some brain scientists would liken
+the process to a shift in the focus of attention, mediated
+by distinct groups of neurons, whereas others believe
+that awareness requires a qualitative change in the
+functional interaction between widely separated areas
+of the brain.
+The main reason it has taken so long to understand
+which mental activities are mediated by which regions
+of the brain is that we are dealing with biology’s deepest riddle: the neural mechanisms that account for con-
+est riddle: the neural mechanisms that account for consciousness and self-awareness. There is at present no
+sciousness and self-awareness. There is at present no
+satisfactory theory that explains why only some information that reaches our eyes leads to a state of subjec-
+mation that reaches our eyes leads to a state of subjective awareness of an item, person, or scene. We know
+tive awareness of an item, person, or scene. We know
+that we are consciously aware of only a small fraction
+of our mental deliberations, and those thoughts that do
+pierce conscious awareness must arise from steps carried out by the brain unconsciously. As we propose in
+ried out by the brain unconsciously. As we propose in
+Chapter 56, some answers to the riddles of consciousness may be closer than imagined.
+ness may be closer than imagined.
+Meanwhile, the current gap in our understanding also poses practical, epistemological challenges
+ing also poses practical, epistemological challenges
+for neural science. We cannot help but rely on our conscious experiences of the world, body, and ideation in
+scious experiences of the world, body, and ideation in
+our characterization of perception, behavior, and cognition. In doing so, however, we risk mischaracterizing
+nition. In doing so, however, we risk mischaracterizing
+many mental processes that do not pierce conscious
+awareness. For example, we tend to characterize the
+problem of perception in terms consistent with the
+subjective experience of sensory information, whereas
+even sophisticated but nonconscious knowledge of the
+content of perception may have greater resemblance
+to a behavioral utility (affordance), in effect an answer
+to whether this is something I might choose to eat, sit
+upon, or engage further. Similarly, cognitive processes,
+such as reasoning, strategizing, and decision making,
+are likely to be carried out by the brain in ways that
+only loosely resemble the steps we infer from conscious deliberation.
+scious deliberation.
+These cautionary notes have a bright corollary.
+The insight that many cognitive functions transpire
+without conscious awareness raises the possibility that
+principles of neural science revealed in the study of
+more rudimentary behaviors can furnish insight into
+more complex cognitive processes. Neural recordings
+from the brains of animals trained to perform complex
+tasks have led to an understanding of cognitive processes such as decision making, reasoning, planning,
+cesses such as decision making, reasoning, planning,
+and allocating attention. These experimental models
+often extrapolate to human functions, and where they
+fall short, they inspire new hypotheses. For more often
+than not, there is inspiration if not insight to be gleaned
+from the gaps in our understanding.
+To analyze how the brain gives rise to a specific
+mental process, we must determine not only which
+aspects of the process depend on which regions of the
+brain but also how the relevant information is represented, routed, and transformed. Modern neural science
+sented, routed, and transformed. Modern neural science
+seeks to integrate such understanding across many
+scales. For example, studies at the level of both the single nerve cell and its molecular constituents elucidate
+gle nerve cell and its molecular constituents elucidate
+the mechanisms underlying electrical excitability and
+synaptic connections. Studies of cells and simple circuits lend insights into neural computations, ranging
+cuits lend insights into neural computations, ranging
+from basic operations, like controlling net excitation,
+to more masterful feats of computation, such as the
+derivation of meaningful information from raw sensory data. Studies of the interactions between circuits
+sory data. Studies of the interactions between circuits
+and brain areas can explain how we coordinate widely
+separated muscle groups or express a belief in a proposition. Knowledge at all these levels is knit together
+osition. Knowledge at all these levels is knit together
+by mathematical formalizations, computer simulation,
+and psychological theory. These conceptual tools can
+now be combined with modern physiological techniques and brain imaging methods, making it possible to track mental processes as they evolve in real time
+niques and brain imaging methods, making it possible to track mental processes as they evolve in real time
+in living animals and humans. Indeed, the excitement evident in neural science today stems from the
+ment evident in neural science today stems from the
+conviction that the biological principles that underlie
+human thought and behavior are within our grasp and
+may soon be harnessed to elucidate and improve the
+human condition.
+Highlights
+1. The neural sciences seek to understand the brain
+at multiple levels of organization, ranging from
+the cell and its constituents to the operations of the
+mind.
+2.The fundamental principles of neural science bridge
+levels of time, complexity, and state—from cell to
+action and ideation, from development through
+learning to expertise and forgetting, from normal function to neurological deficits and recovery.
+mal function to neurological deficits and recovery.
+As a first step, one must understand the building
+blocks—the electrical properties of the nerve cell
+and its connections to other nerve cells—and the
+organization of the nervous system from supporting cells to pathways.
+ing cells to pathways.
+3.The neuron doctrine states that individual nerve
+cells (neurons) are the elementary building blocks
+and signaling elements of the nervous system.
+4.Neurons are organized into circuits with specialized functions. The simplest circuits mediate
+cialized functions. The simplest circuits mediate
+reflexes; more complex cognitive functions require
+more sophisticated circuits. This organizational
+principle extends the neuron doctrine to cellular
+connectionism.
+5.Even within complex circuits, critical nodes can be
+identified as areas associated with a specific function. The first clear evidence for localization of brain
+tion. The first clear evidence for localization of brain
+function came from the study of a specific impairment of language production.
+ment of language production.
+6.The two cerebral hemispheres receive information
+from the opposite side of the body and control the
+actions of the opposite side.
+7.While the principle of localization of function in the
+brain is superior to its main historical alternatives—
+aggregate-field and the theory of mass action—it
+is constantly being refined. No area of the cerebral
+cortex functions independently of other cortical and
+subcortical structures.
+8.A major refinement of localization is the principle
+of modular functional organization. The brain contains many representations of information organ-
+tains many representations of information organized by both the relevance of certain features for
+ized by both the relevance of certain features for
+particular computations and by the variety of uses
+to which such information may be put. This is a
+form of redundancy with respect to purpose or
+potential action.
+9.The future of brain science will require integration
+of ideas that cross the boundaries of traditional
+disciplines. We must open our minds to a wide
+variety of sources to guide our intuitions and strategies for research, from the sublime—the nature of
+egies for research, from the sublime—the nature of
+consciousness—to the seemingly mundane—what
+general anesthesia does to a calcium sensor in the
+ring of cells around the thalamus.
